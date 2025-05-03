@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alex
 - ⚒️ I build models and projects with: Python and SQL
-- 🌱 Learning through blogging
+- 🌱 Learning through discovery
 - 💡 I enjoy reading, films, creative writing and art :)
 
 <!---
