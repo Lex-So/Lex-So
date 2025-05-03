@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Lex-So
-- 👀 I’m interested in films, craft beer & current affairs
-- 🌱 I’m currently learning Python, SQL and Ruby
-- 📫 How to reach me alexandra.sewell@hotmail.com
+- 👋 Hi, I’m Alex
+- ⚒️ I build models with: Python and SQL
+- 🌱 Learning through blogging
+- 💡 I enjoy reading, films, creative writing and art :)
 
 <!---
 Lex-So/Lex-So is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
