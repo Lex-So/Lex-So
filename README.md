@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Alex
-- ⚒️ I build models with: Python and SQL
+- ⚒️ I build models and projects with: Python and SQL
 - 🌱 Learning through blogging
 - 💡 I enjoy reading, films, creative writing and art :)
 
